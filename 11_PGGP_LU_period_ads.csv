@@ -1,0 +1,18 @@
+Period_number,Period,Sub_period,Start_date,End_date
+1,Neolithic,Early Neolithic,-4000,-3301
+2,Neolithic,Middle Neolithic,-3300,-2901
+3,Neolithic,Late Neolithic,-2900,-2451
+4,Bronze Age,Beaker/Chalcolithic,-2450,-2201
+5,Bronze Age,Early Bronze Age,-2200,-1501
+6,Bronze Age,Middle Bronze Age,-1500,-1150
+7,Bronze Age,Late Bronze Age,-1150,-801
+8,Iron Age,Early Iron Age,-800,-401
+9,Iron Age,Middle Iron Age,-400,-101
+10,Iron Age,Late Iron Age,-100,42
+11,Prehistoric,n/a,-4000,42
+12,Neolithic,n/a,-4000,-2451
+13,Bronze Age,n/a,-2450,-801
+14,Iron Age,n/a,-800,42
+15,Unclear/Unspecified; Unknown; Multiperiod,n/a,-100000,2000
+16,Bronze Age/Iron Age,n/a,-2450,42
+17,Neolithic/Bronze Age,n/a,-4000,-801

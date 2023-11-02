@@ -1,0 +1,68 @@
+Material_type_code,Material_category,Material_type,Material_type_specific,Combined_material
+1,Unknown,Unknown,,Unknown
+2,Metal (other),Metal Alloy (Uncertain/Unspecified),,Metal Alloy (Uncertain/Unspecified)
+3,Amber/jet/shale,Amber,,Amber
+4,Bone,Bone/Antler/Horn/Ivory/Tooth (Animal),Antler,Bone/Antler/Horn/Ivory/Tooth (Animal) [Antler]
+5,Bone,Bone/Antler/Horn/Ivory/Tooth (Animal),Bone,Bone/Antler/Horn/Ivory/Tooth (Animal) [Bone]
+6,Bone,Bone/Antler/Horn/Ivory/Tooth (Human),Human Bone,Bone/Antler/Horn/Ivory/Tooth (Human) [Human Bone]
+7,Bone,Bone/Antler/Horn/Ivory/Tooth (Human),Human Tooth,Bone/Antler/Horn/Ivory/Tooth (Human) [Human Tooth]
+8,Bone,Bone/Antler/Horn/Ivory/Tooth (Uncertain/Unspecified),,Bone/Antler/Horn/Ivory/Tooth (Uncertain/Unspecified)
+9,Bronze,Bronze/Cu Alloy,Bronze,Bronze/Cu Alloy [Bronze]
+10,Pottery,Pottery,,Pottery
+11,Flint,Chert / Flint,Chert,Chert / Flint [Chert]
+12,Other,Clay,,Clay
+13,Bronze,Copper,,Copper
+14,Bronze,Bronze/Cu Alloy,Copper Alloy,Bronze/Cu Alloy [Copper Alloy]
+15,Stone,Dolerite,,Dolerite
+16,Other,Enamel,,Enamel
+17,Flint,Chert / Flint,Flint,Chert / Flint [Flint]
+18,Stone,Garnet,,Garnet
+19,Other,Glass,,Glass
+20,Gold,Gold,,Gold
+21,Stone,Granite,,Granite
+22,Stone,Greenstone,,Greenstone
+23,Bone,Bone/Antler/Horn/Ivory/Tooth (Animal),Horn,Bone/Antler/Horn/Ivory/Tooth (Animal) [Horn]
+24,Iron,Iron,,Iron
+25,Bone,Bone/Antler/Horn/Ivory/Tooth (Animal),Ivory,Bone/Antler/Horn/Ivory/Tooth (Animal) [Ivory]
+26,Amber/jet/shale,Jet/Lignite/Shale/Coal,Jet,Jet/Lignite/Shale/Coal [Jet]
+27,Metal (other),Lead,,Lead
+28,Metal (other),Lead Alloy,,Lead Alloy
+29,Stone,Limestone,,Limestone
+30,Wood,Wood,Oak,Wood [Oak]
+32,Stone,Quartz/Quartzite,,Quartz/Quartzite
+33,Stone,Sandstone,,Sandstone
+34,Amber/jet/shale,Jet/Lignite/Shale/Coal,Shale,Jet/Lignite/Shale/Coal [Shale]
+35,Other,Coral/Shell,Shell,Coral/Shell [Shell]
+36,Metal (other),Silver,,Silver
+37,Stone,Slate,,Slate
+38,Stone,Stone (Uncertain/Unspecified),,Stone (Uncertain/Unspecified)
+39,Metal (other),Tin,,Tin
+40,Bone,Bone/Antler/Horn/Ivory/Tooth (Animal),Tooth,Bone/Antler/Horn/Ivory/Tooth (Animal) [Tooth]
+41,Wood,Wood (Uncertain/Unspecified),,Wood (Uncertain/Unspecified)
+42,Stone,Chalk,,Chalk
+43,Other,Coral/Shell,Coral,Coral/Shell [Coral]
+44,Other,Faience,,Faience
+45,Other,Leather,,Leather
+46,Metal (other),Metal (Uncertain/Unspecified)),,Metal (Uncertain/Unspecified))
+47,Unknown,Organic  (Uncertain/Unspecified),,Organic  (Uncertain/Unspecified)
+48,Other,Textile,,Textile
+49,Amber/jet/shale,Jet/Lignite/Shale/Coal,Coal,Jet/Lignite/Shale/Coal [Coal]
+50,Amber/jet/shale,Jet/Lignite/Shale/Coal (Unspecified),,Jet/Lignite/Shale/Coal (Unspecified)
+51,Wood,Wood,Yew,Wood [Yew]
+53,Stone,Steatite,,Steatite
+54,Other,Ochre,,Ochre
+55,Wood,Wood,Lime,Wood [Lime]
+56,Bronze,Bronze/Cu Alloy (Uncertain/Unspecified),,Bronze/Cu Alloy (Uncertain/Unspecified)
+57,Other,Coral/Shell (Uncertain/Unspecified),,Coral/Shell (Uncertain/Unspecified)
+58,Flint,Chert / Flint (Uncertain/Unspecified),,Chert / Flint (Uncertain/Unspecified)
+59,Other,Charred Plant Remains,,Charred Plant Remains
+60,Wood,Wood,Sweet Chestnut,Wood [Sweet Chestnut]
+61,Wood,Wood,Ash,Wood [Ash]
+62,Stone,Ironstone,,Ironstone
+63,Wood,Wood,Alder,Wood [Alder]
+64,Bronze,Bronze/Cu Alloy,Brass,Bronze/Cu Alloy [Brass]
+65,Wood,Wood,Hazel,Wood [Hazel]
+66,Stone,Pumice,,Pumice
+67,Wood,Wood,Willow,Wood [Willow]
+68,Other,Sinew,,Sinew
+69,Stone,Gneiss ,,Gneiss 
